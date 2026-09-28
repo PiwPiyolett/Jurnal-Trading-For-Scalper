@@ -1,0 +1,9 @@
+.vercel
+.claude
+.env
+.env.*
+*.md
+*.docx
+*.sql
+*.bak
+_audit-*
