@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 Jurnal Trading AB — untuk Scalper
+# 📈 Jurnal Trading AB · untuk Scalper
 
 **Platform pencatatan harian berbasis web, dirancang khusus untuk trader scalper.**
 
@@ -21,11 +21,11 @@ Multi-user · sinkronisasi cloud · ringan (± 50 KB) · Single Page Application
 
 ## ✨ Fitur
 
-- 📓 **Jurnal harian scalping** — catat banyak posisi dalam satu hari dengan cepat.
-- ☁️ **Multi-user + cloud sync** — autentikasi email/password, data tersinkron otomatis via Supabase.
-- 📱 **Akses dari mana saja** — cukup browser, tanpa instal apa pun.
-- 🪶 **Sangat ringan** — seluruh aplikasi ± 50 KB, dimuat instan.
-- 🎨 **Fully branded** — antarmuka dengan identitas visual sendiri.
+- 📓 **Jurnal harian scalping**, catat banyak posisi dalam satu hari dengan cepat.
+- ☁️ **Multi-user + cloud sync**, autentikasi email/password, data tersinkron otomatis via Supabase.
+- 📱 **Akses dari mana saja**, cukup browser, tanpa instal apa pun.
+- 🪶 **Sangat ringan**, seluruh aplikasi ± 50 KB, dimuat instan.
+- 🎨 **Fully branded**, antarmuka dengan identitas visual sendiri.
 
 ## 🛠️ Tech Stack
 
